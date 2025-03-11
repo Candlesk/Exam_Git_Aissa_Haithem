@@ -1,0 +1,30 @@
+commit 2f7b42ea99b3f0c69a0625110267857db0816511
+Author: Haithem <haithemaissa@gmail.com>
+Date:   Tue Mar 11 10:47:47 2025 +0000
+
+    Ajout de l'affichage de la date et l'heure feature
+
+commit 65b47a8f7125e08b4c4dd12472052800ca9f535e
+Merge: 383fca1 dfc5bdb
+Author: Haithem <haithemaissa@gmail.com>
+Date:   Tue Mar 11 10:26:48 2025 +0000
+
+    Merge branch 'develop'
+
+commit dfc5bdb01513b50d0e12a6991506b568f25b1ae3
+Author: Haithem <haithemaissa@gmail.com>
+Date:   Tue Mar 11 10:24:56 2025 +0000
+
+    ajout du fichier app.py
+
+commit 383fca1c2266b29a73b639cbfcda9b7c89488c54
+Author: Haithem <haithemaissa@gmail.com>
+Date:   Tue Mar 11 10:21:07 2025 +0000
+
+    mise a jour read me
+
+commit b65ae9ae92e85bc0be9eac7e0cbdb8b05f211a39
+Author: Candlesk <146390341+Candlesk@users.noreply.github.com>
+Date:   Tue Mar 11 09:10:19 2025 +0000
+
+    Initial commit
